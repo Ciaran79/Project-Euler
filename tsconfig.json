@@ -1,0 +1,8 @@
+{
+    "compilerOptions": {
+        "watch": true,
+        "target": "esnext",
+        "lib": ["dom", "es2018"],
+        "sourceMap": true
+    }
+}
